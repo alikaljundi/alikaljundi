@@ -1,20 +1,30 @@
 # 💫 About Me:
 🚀 Senior Frontend Developer | 🎨 Animation Enthusiast | 📸 Photography Lover<br>
+
 💻 Currently building Algooru's website & internal system<br>
+
 🎭 Mastering the art of complex animations (because smooth UI = happy users)<br>
+
 🛠️ Specialized in Angular, GSAP, SSR, and high-performance frontend<br>
+
 📚 Passionate about storytelling through code<br>
 
 # 🔥 What I Do Best:
 . Frontend Wizardry: 5+ years crafting seamless user experiences<br>
+
 . CSS & GSAP Magic: Breathing life into UI with animations<br>
+
 . Angular Guru: From enterprise apps to SSR-powered wonders<br>
+
 . Optimization Junkie: Speed, performance, and smooth rendering<br>
 
 # 💡 Ask Me About:
 💬 Frontend best practices<br>
+
 ⚡ Performance optimizations<br>
+
 🎬 Crazy UI animations<br>
+
 🔍 Debugging the impossible<br>
 
 # 💻 Tech Stack:
