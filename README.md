@@ -1,3 +1,6 @@
+ [![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ali%20Aljundi&section=header&reversal=true&textBg=false)]()
+
+
 # 💫 About Me:
 🚀 Senior Frontend Developer | 🎨 Animation Enthusiast | 📸 Photography Lover<br>
 
